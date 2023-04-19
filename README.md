@@ -10,9 +10,12 @@ The result is displayed to the user.
 The user can choose to refresh and get a new random result, or quit the program.
 
 # How to Run
-Make sure you have Python installed on your system.
-Download or clone the Decision Maker program to your local machine.
-Navigate to the directory where the program is located.
+Make sure you have Python installed on your system.  
+
+Download or clone the Decision Maker program to your local machine.  
+
+Navigate to the directory where the program is located.  
+
 Run the program by executing the following command in the command prompt or terminal:
 Copy code
 python decision_maker.py
