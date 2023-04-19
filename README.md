@@ -2,7 +2,8 @@
 The Decision Maker is a simple Python program that helps users make decisions by randomly selecting one option from a list of choices provided by the user. It can be used for various decision-making scenarios, such as choosing a restaurant, picking a movie to watch, or deciding what to wear.
 
 # How it Works
-The user is prompted to enter the number of choices they have. The program validates that the input is a positive integer within a predefined maximum limit (default is 10).
+The user is prompted to enter the number of choices they have. The program validates that the input is a positive integer within a predefined maximum limit (default is 10).  
+
 The user is then asked to enter each choice one by one.
 Once all the choices are entered, the program randomly selects one choice as the result.
 The result is displayed to the user.
