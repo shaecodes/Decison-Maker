@@ -4,9 +4,12 @@ The Decision Maker is a simple Python program that helps users make decisions by
 # How it Works
 The user is prompted to enter the number of choices they have. The program validates that the input is a positive integer within a predefined maximum limit (default is 10).  
 
-The user is then asked to enter each choice one by one.
-Once all the choices are entered, the program randomly selects one choice as the result.
-The result is displayed to the user.
+The user is then asked to enter each choice one by one.  
+
+Once all the choices are entered, the program randomly selects one choice as the result.  
+
+The result is displayed to the user.  
+
 The user can choose to refresh and get a new random result, or quit the program.
 
 # How to Run
@@ -16,12 +19,13 @@ Download or clone the Decision Maker program to your local machine.
 
 Navigate to the directory where the program is located.  
 
-Run the program by executing the following command in the command prompt or terminal:
-Copy code
-python decision_maker.py
-Follow the on-screen prompts to enter the number of choices and the choices themselves.
-The program will display a randomly selected choice as the result.
-To refresh and get a new result, simply press Enter. To quit the program, enter 'q' when prompted.
+Run the program by executing the following command in the command prompt or terminal:  
+
+Follow the on-screen prompts to enter the number of choices and the choices themselves.  
+
+The program will display a randomly selected choice as the result.  
+
+To refresh and get a new result, simply press Enter. To quit the program, enter 'q' when prompted.  
 
 # Contributing
 Contributions to the Decision Maker program are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
